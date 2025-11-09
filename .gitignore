@@ -1,0 +1,61 @@
+# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+
+# Environment variables - NEVER COMMIT THESE!
+.env
+.env.local
+.env.production
+*.env
+
+# Build outputs
+dist/
+build/
+out/
+
+# Hardhat
+contracts/cache/
+contracts/artifacts/
+contracts/deployments/
+contracts/coverage/
+contracts/coverage.json
+contracts/typechain-types/
+
+# Backend
+backend/contracts/*.json
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Testing
+coverage/
+.nyc_output/
+
+# Misc
+*.tgz
+.cache/
+
+# IPFS
+.ipfs/
+
+# Private keys and secrets
+*.key
+*.pem
+mnemonic.txt
+secrets.json
