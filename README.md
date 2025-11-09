@@ -1,5 +1,3 @@
-# 🏗️ Blockchain HR Platform - Complete Web3 Tutorial
-
 # 📦 Blockchain HR Platform - Complete Project Summary
 
 ## 🎯 What You Built
