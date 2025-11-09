@@ -157,10 +157,6 @@
   - Step-by-step commands
   - Troubleshooting section
 
-- **WEB2_VS_WEB3_COMPARISON.md**
-  - Side-by-side code comparisons
-  - Feature-by-feature breakdown
-  - Interview preparation tips
 
 - **Inline Code Comments**
   - Every file has explanatory comments
