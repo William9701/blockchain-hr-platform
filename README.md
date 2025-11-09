@@ -1,6 +1,6 @@
 # 📦 Blockchain HR Platform - Complete Project Summary
 
-## 🎯 What You Built
+## 🎯 The Build
 
 **production-ready blockchain-based HR platform** that demonstrates real-world Web3 development skills matching the job requirements:
 
