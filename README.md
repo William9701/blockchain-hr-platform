@@ -749,14 +749,9 @@ This is a learning project! Feel free to:
 
 ## ⚖️ License
 
-MIT License - Built for educational purposes
+MIT License - Built for demo purposes
 
 ---
 
-
-
-Good luck building the decentralized future! 🚀
-
----
 
 **Built with ❤️ for HR-platform Demo**
